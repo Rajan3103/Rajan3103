@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Karthig%20Rajan%20S&fontSize=70&fontColor=58a6ff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=200&section=header&text=Karthig%20Rajan%20S&fontSize=70&fontColor=ffffff&animation=fadeIn" />
 </div>
 
 <div align="center">
@@ -31,12 +31,16 @@
 ---
 
 ## 💻 Tech Stack & Expertise
+## 💻 Core Expertise & Tech Stack
 | Domain | Technologies |
 | :--- | :--- |
-| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) |
-| **Backend** | ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=spring-boot&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white) |
-| **Data Science** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) ![NLP](https://img.shields.io/badge/-NLP-FF6F00?logo=ai&logoColor=white) |
-| **Cloud & DB** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![OCI](https://img.shields.io/badge/-Oracle_Cloud-F80000?logo=oracle&logoColor=white) ![Spark](https://img.shields.io/badge/-Apache_Spark-E25A1C?logo=apache-spark&logoColor=white) |
+| **Programming** | Java (Advanced), Python (Intermediate) |
+| **Machine Learning** | Supervised & Unsupervised Learning, Predictive Modeling, Feature Engineering, Hyperparameter Tuning, Ensemble Methods (Random Forest, XGBoost) |
+| **Generative AI** | LLMs, Prompt Engineering |
+| **Data Science** | Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, EDA, Data Visualization |
+| **Frameworks** | Spring Boot |
+| **Backend & DB** | Flask, FastAPI, REST APIs, MySQL, SQLite, HTML, CSS |
+| **Tools & Other** | Git, GitHub, Linux, Apache Spark, SHAP, XAI, DSA, OOP, System Design |
 
 ---
 
@@ -76,5 +80,5 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=33ccff&height=100&section=footer" />
 </div>
