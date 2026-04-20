@@ -75,9 +75,15 @@
 - ☁️ **Oracle Cloud** AI Foundations Associate
 - 📊 **IBM** Data Analyst Professional
 - 📈 **Microsoft** Power BI Data Analyst
-- 🎭 **President**, Theatrical Club (Leadership & Mentorship)
+- ❄️ **Snowflake SnowPro Core**
 
 ---
+
+### 🔭 Research Interests & Philosophy
+> *“From frontend to backend, impact lies in connecting ideas to execution.”*
+
+- **Leadership**: President of Theatrical club
+- **Mentoring 100+ students in ML & System Design.
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=33ccff&height=100&section=footer" />
