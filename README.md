@@ -35,12 +35,12 @@
 | Domain | Technologies |
 | :--- | :--- |
 | **Programming** | Java (Advanced), Python (Intermediate) |
-| **Machine Learning** | Supervised & Unsupervised Learning, Predictive Modeling, Feature Engineering, Hyperparameter Tuning, Ensemble Methods (Random Forest, XGBoost) |
+| **Machine Learning** | Supervised & Unsupervised Learning, Predictive Modeling, Feature Engineering |
 | **Generative AI** | LLMs, Prompt Engineering |
-| **Data Science** | Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, EDA, Data Visualization |
-| **Frameworks** | Spring Boot |
+| **Data Science** | Pandas, NumPy, Scikit-learn, Matplotlib, Data Visualization |
+| **Frameworks** | Spring Boot,React |
 | **Backend & DB** | Flask, FastAPI, REST APIs, MySQL, SQLite, HTML, CSS |
-| **Tools & Other** | Git, GitHub, Linux, Apache Spark, SHAP, XAI, DSA, OOP, System Design |
+| **Tools & Other** | Git, GitHub, Linux,DSA, OOP, System Design |
 
 ---
 
