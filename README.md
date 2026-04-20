@@ -1,124 +1,80 @@
-# 🚀 Karthig Rajan S  
-### **Full Stack Engineer | Web Developer**
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Karthig%20Rajan%20S&fontSize=70&fontColor=58a6ff&animation=fadeIn" />
+</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=38&center=true&vCenter=true&width=1000&height=80&duration=4000&color=58a6ff&lines=Full+Stack+Engineer+%7C+Web+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Outfit&size=38&center=true&vCenter=true&width=1000&height=80&duration=4000&color=58a6ff&lines=Full+Stack+Engineer;AI+Enthusiast;Web+Systems+Architect;Data+Analytics+Specialist" />
 </div>
 
 <p align="center">
   <a href="https://linkedin.com/in/karthig-rajan-s">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="25" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:rajankarthig@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" height="25" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Rajan3103">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white" height="25" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
 ## 🏛️ Executive Summary
+🚀 Aspiring **Full Stack Engineer** specializing in building **intelligent, data-driven applications** and **scalable web systems**. I combine robust backend architectures with modern frontend aesthetics and AI integrations.
 
-Aspiring **Full Stack Engineer** with strong experience in building **data-driven applications and scalable web systems** using **Java, Spring Boot, SQL, and JavaScript**.
-
-- 💡 Passionate about combining **AI + Web Development** to build real-world solutions  
-- ⚡ Improved backend performance by **30% via optimization & caching** :contentReference[oaicite:0]{index=0}  
-- 📊 Skilled in **data analytics, dashboards, and visualization (Power BI, Tableau)**  
-- 🌱 Currently exploring **Machine Learning, Deep Learning & Generative AI**
+- 💡 **Passion**: Building high-impact solutions at the intersection of AI + Web Development.
+- ⚡ **Optimization**: Improved backend performance by **30% via caching & efficient SQL design**.
+- 📊 **Analytics**: Expert in translating complex data into insights via **Power BI & Tableau**.
+- 🌱 **Learning**: Currently deep-diving into **Generative AI, Large Language Models (LLMs), and System Design**.
 
 ---
 
-## 💻 Core Expertise & Tech Stack
-
+## 💻 Tech Stack & Expertise
 | Domain | Technologies |
 | :--- | :--- |
-| **Frontend** | HTML, CSS, JavaScript, React |
-| **Backend** | Java (Spring Boot), Flask, FastAPI |
-| **Databases** | MySQL, SQLite |
-| **Programming** | Java (Advanced), Python (Intermediate) |
-| **Machine Learning** | Scikit-learn, NLP, TF-IDF, Naive Bayes |
-| **Data Science** | Pandas, NumPy, Matplotlib, Seaborn |
-| **Tools & Systems** | Git, GitHub, Linux, Apache Spark |
+| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) |
+| **Backend** | ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=spring-boot&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white) |
+| **Data Science** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) ![NLP](https://img.shields.io/badge/-NLP-FF6F00?logo=ai&logoColor=white) |
+| **Cloud & DB** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![OCI](https://img.shields.io/badge/-Oracle_Cloud-F80000?logo=oracle&logoColor=white) ![Spark](https://img.shields.io/badge/-Apache_Spark-E25A1C?logo=apache-spark&logoColor=white) |
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### 🔍 NLP-Based Log Processor & Bug Prioritization System
-> **Full Stack + AI Project**
-- Built a system to process `.log`, `.csv`, `.pcap` files into readable bug reports  
-- Applied **NLP pipeline (TF-IDF, tokenization, stopword removal)**  
-- Developed **Naive Bayes model** for bug classification & priority prediction  
-- Created **React dashboard** with charts (pie, bar, line)  
-- Designed **Flask APIs + MySQL integration**  
+### 🔍 NLP-Based Log Processor & Bug Prioritization
+> **Full Stack + AI System**
+- Developed a pipeline to convert raw logs into actionable bug reports.
+- Used **TF-IDF & Naive Bayes** for classification and priority prediction.
+- Built a real-time **React dashboard** for visual tracking.
 
----
-
-### 🔐 PhishGuard AI — Phishing Detection System
-- Multi-layer detection using **URL, email & webpage analysis**  
-- Integrated **Explainable AI (XAI)** for transparency  
-- Built scalable backend with **real-time REST APIs**  
-- Deployed on **AWS / GCP / Render / Heroku**
+### 🔐 PhishGuard AI — Detection System
+- Implemented **Multi-layer detection** (URL/Email/Webpage).
+- Integrated **XAI (Explainable AI)** for interpretable security insights.
+- Scalable backend built with **FastAPI** for real-time analysis.
 
 ---
 
-### 🔑 Login Lounge Application
-- Developed full-stack CRUD application using **Spring Boot + React**  
-- Built responsive UI with seamless backend integration  
-- Efficient user data management system  
-
----
-
-## 💼 Experience
-
-### 🏢 Machine Learning & Full Stack Intern — Zilogic Systems
-**Jun 2025 – Jul 2025**
-- Built full-stack apps using **React, Flask, SQL**  
-- Designed scalable **REST APIs**  
-- Improved performance by **30% using optimization techniques** :contentReference[oaicite:1]{index=1}  
-
----
-
-### 📊 Performance & Contributions
+## 📊 GitHub Universe
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rajan3103&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajan3103&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+</div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sachinrameshvd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachinrameshvd&layout=compact&theme=tokyonight&langs_count=8" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sachinrameshvd&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajan3103&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
 
-## 📜 Certifications
-
-- ☁️ Oracle Cloud Infrastructure AI Foundations Associate  
-- 📊 IBM Data Analyst Certification  
-- 📈 Microsoft Power BI Certification  
-- ❄️ Snowflake SnowPro Core  
-- 🟡 Lean Six Sigma Yellow Belt  
-
----
-
-## 🏆 Achievements & Leadership
-
-- 🎭 **President, Theatrical Club** — Led events for 100+ students  
-- 👨‍🏫 Mentored juniors in **ML, System Design & Development**  
-
----
-
-## 🔭 Career Vision
-
-> *"I aim to build scalable, intelligent, and user-centric systems by combining Full Stack Engineering with AI and Data Analytics."*
-
-- 🚀 Exploring: **Generative AI, LLMs, System Design**  
-- 💡 Focus: **High-performance web systems + intelligent applications**
+## 🏆 Certifications & Achievements
+- ☁️ **Oracle Cloud** AI Foundations Associate
+- 📊 **IBM** Data Analyst Professional
+- 📈 **Microsoft** Power BI Data Analyst
+- 🎭 **President**, Theatrical Club (Leadership & Mentorship)
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer" />
 </div>
