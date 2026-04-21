@@ -90,7 +90,7 @@
 > *“From frontend to backend, impact lies in connecting ideas to execution.”*
 
 - **Leadership**: President of Theatrical club
-- **Mentoring 100+ students in ML & System Design.
+- Mentoring 100+ students in ML & System Design.
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=33ccff&height=100&section=footer" />
