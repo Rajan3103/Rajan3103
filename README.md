@@ -33,7 +33,7 @@
 ## 💻 Core Expertise & Tech Stack
 | Domain | Technologies |
 | :--- | :--- |
-| **Programming** | Java (Advanced), Python (Intermediate) |
+| **Programming** | Java (Advanced), Python (Intermediate), TypeScript, JavaScript |
 | **Machine Learning** | Supervised & Unsupervised Learning, Predictive Modeling, Feature Engineering |
 | **Generative AI** | LLMs, Prompt Engineering |
 | **Data Science** | Pandas, NumPy, Scikit-learn, Matplotlib, Data Visualization |
@@ -44,6 +44,12 @@
 ---
 
 ## 🚀 Featured Projects
+
+### ⚡ FlowForge AI — HR Workflow Engine
+> **High-Fidelity Polyglot System**
+- Engineered a **React + TypeScript** designer canvas with custom graph traversal.
+- Designed a self-validating logic engine with **dual-backend support (Java/Spring Boot & Python/FastAPI)**.
+- Integrated **Zustand state management** and **Zundo** for undo/redo capabilities.
 
 ### 🔍 NLP-Based Log Processor & Bug Prioritization
 > **Full Stack + AI System**
@@ -69,6 +75,8 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div>
 
 <div align="center">
