@@ -60,9 +60,6 @@
 
 ## 📊 GitHub Universe
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rajan3103&theme=tokyonight&no-frame=true&row=1&column=7" />
-</div>
-<div align="center">
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Rajan3103&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="170" />
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs?username=Rajan3103&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" height="170" />
 </div>
