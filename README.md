@@ -2,7 +2,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0A2A43&height=120&section=header&text=Karthig%20Rajan%20S&fontSize=40&fontColor=ffffff"/>
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=24&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=1000&lines=Full+Stack+Engineer;AI+Enthusiast+%26+Web+Architect;Data+Analytics+Specialist;Scalable+Web+Systems"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=24&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=1000&lines=Full+Stack+Engineer;AI-Integrated+Workflows;Data+Pipelines+%26+Analytics;Scalable+Web+Systems"/>
 </h2>
 
 <p align="center">
@@ -19,19 +19,20 @@
   <a href="https://github.com/Rajan3103">
     <img src="https://img.shields.io/badge/GitHub-0A2A43?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  <a href="https://karthigportfolio.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-0D4C73?style=for-the-badge&logo=netlify&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 ## About Me
 
-> **Aspiring Full Stack Engineer** specializing in building intelligent, data-driven applications and scalable web systems. I combine robust backend architectures with modern frontend aesthetics and AI integrations.
+> **Aspiring Forward Deployed Engineer** with hands-on experience building full-stack applications, REST APIs, data pipelines, and AI-integrated workflows. Comfortable working across the stack — from data cleaning and SQL optimization to frontend dashboards and API integrations — with practical exposure to LLMs, NLP, and AI-native development. Thrive at the intersection of engineering and customer outcomes, solving complex technical problems and delivering solutions fast.
 
-- 💡 **Passion**: Building high-impact solutions at the intersection of AI + Web Development.
-- ⚡ **Optimization**: Improved backend performance by **30% via caching & efficient SQL design**.
-- 📊 **Analytics**: Expert in translating complex data into insights via **Power BI & Tableau**.
-- 🌱 **Learning**: Currently deep-diving into **Generative AI, Large Language Models (LLMs), and System Design**.
-- 🎯 **Leadership**: President of Theatrical club · Mentoring 100+ students in ML & System Design.
+- 🎓 Pursuing B.Tech in Computer Science and Engineering at **SRM Institute of Science and Technology** (2023 - 2027) | **CGPA: 9.07 / 10.0**
+- 💼 Artificial Intelligence Product Development Intern at **3rd Ain Smart Infotech** (Mar 2026 - May 2026)
+- 📊 Machine Learning / Data Analyst Intern at **Zilogic Systems** (Jun 2025 - Jul 2025)
 
 ---
 
@@ -41,64 +42,92 @@
 <tr>
 <td width="25%" valign="top">
 
-### Full Stack & Web
-
-<img src="https://skillicons.dev/icons?i=react,html,css&theme=dark"/>
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-
-</td>
-<td width="25%" valign="top">
-
-### Languages & Programming
+### Programming Languages
 
 <img src="https://skillicons.dev/icons?i=java,python,ts,js&theme=dark"/>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 </td>
 <td width="25%" valign="top">
 
-### AI & Machine Learning
+### APIs & Integration
+
+<img src="https://skillicons.dev/icons?i=spring,fastapi,flask&theme=dark"/>
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-0A2A43?style=flat-square&logoColor=white)
+
+</td>
+<td width="25%" valign="top">
+
+### Data & Pipelines
+
+<img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark"/>
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+</td>
+<td width="25%" valign="top">
+
+### AI & LLMs
 
 <img src="https://skillicons.dev/icons?i=scikitlearn,py&theme=dark"/>
 
-![Generative AI](https://img.shields.io/badge/Generative_AI-0A2A43?style=flat-square&logoColor=white)
 ![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat-square&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-0A2A43?style=flat-square&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Predictive Modeling](https://img.shields.io/badge/Predictive_Modeling-0D4C73?style=flat-square&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="25%" valign="top">
+
+### Frontend Development
+
+<img src="https://skillicons.dev/icons?i=react,html,css,vite&theme=dark"/>
+
+![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square&logoColor=white)
+![React Flow](https://img.shields.io/badge/React_Flow-FF0072?style=flat-square&logoColor=white)
 
 </td>
 <td width="25%" valign="top">
 
-### Data & Tools
+### Tools & DevOps
 
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,linux&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=git,github,linux,docker&theme=dark"/>
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
+</td>
+<td width="50%" colspan="2" valign="top">
 </td>
 </tr>
 </table>
 
 ---
 
-### Certifications & Specialized Skills
+## Experience
 
-<p align="center">
-<img src="https://img.shields.io/badge/Oracle_Cloud_AI_Foundations-F80000?style=flat-square&logo=oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/IBM_Data_Analyst_Professional-0530AD?style=flat-square&logo=ibm&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microsoft_Power_BI_Data_Analyst-F2C811?style=flat-square&logo=microsoft&logoColor=black"/>
-<img src="https://img.shields.io/badge/Snowflake_SnowPro_Core-29B5E8?style=flat-square&logo=snowflake&logoColor=white"/>
-<img src="https://img.shields.io/badge/Data_Visualization-11557C?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/System_Design-22314E?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Predictive_Modeling-0D4C73?style=flat-square&logoColor=white"/>
-</p>
+**3rd Ain Smart Infotech** | *Artificial Intelligence Product Development Intern* | Mar 2026 - May 2026
+- Worked on AI product development workflows, analyzing metrics and supporting deployment decisions across the product lifecycle.
+- Built data collection and preprocessing pipelines; cleaned and transformed datasets to improve AI model training quality.
+
+**Zilogic Systems** | *Machine Learning / Data Analyst Intern* | Jun 2025 - Jul 2025
+- Built REST APIs (Flask) and ML models for data analysis; designed and optimized SQL queries on MySQL/SQLite for analytical reporting.
+- Reduced query response time by **30%** via query optimization and caching — improving data pipeline reliability for downstream systems.
 
 ---
 
@@ -106,9 +135,9 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| **FlowForge AI** | High-Fidelity HR Workflow Engine with custom graph traversal, dual-backend support, and undo/redo capabilities. | React · TypeScript · Spring Boot · FastAPI · Zustand |
-| **NLP Log Processor** | Full Stack + AI System converting raw logs into actionable bug reports with real-time visual tracking. | React · TF-IDF · Naive Bayes |
-| **PhishGuard AI** | Multi-layer detection system (URL/Email/Webpage) integrating Explainable AI (XAI) for interpretable security insights. | FastAPI · XAI · ML |
+| **[FlowForge AI](https://github.com/Rajan3103/FlowForge-AI)** | Built a visual workflow automation engine that transformed complex HR processes into executable pipelines, achieving a 12x increase in operational speed. Delivered real-time structural validation and undo/redo state. | React 19, TypeScript, Zustand, React Flow, Vite, Dagre, Recharts |
+| **[NLP-Based Log Processor & Bug Prioritisation System](https://github.com/Rajan3103/NLP-Log-Processor)** | Built an end-to-end data pipeline ingesting raw log files, cleaning and transforming them via NLP into structured, prioritized bug reports. Integrated MySQL and a React dashboard. | Python, React, MySQL, NLP, Scikit-learn, TF-IDF, Naive Bayes |
+| **[Login Lounge Application](https://github.com/Rajan3103/Login-Lounge)** | Designed and built RESTful API endpoints and a React frontend with CRUD operations, SQL-backed reporting, and user activity tracking. Modeled database schemas for efficient data retrieval. | Java, Spring Boot, React, JavaScript, HTML, CSS, SQL |
 
 ---
 
