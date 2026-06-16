@@ -30,7 +30,7 @@
 
 > **Aspiring Forward Deployed Engineer** with hands-on experience building full-stack applications, REST APIs, data pipelines, and AI-integrated workflows. Comfortable working across the stack — from data cleaning and SQL optimization to frontend dashboards and API integrations — with practical exposure to LLMs, NLP, and AI-native development. Thrive at the intersection of engineering and customer outcomes, solving complex technical problems and delivering solutions fast.
 
-- 🎓 Pursuing B.Tech in Computer Science and Engineering at **SRM Institute of Science and Technology** (2023 - 2027) | **CGPA: 9.07 / 10.0**
+- 🎓 Pursuing B.Tech in Computer Science and Engineering at **SRM Institute of Science and Technology** (2023 - 2027) | **CGPA: 9.08 / 10.0**
 - 💼 Artificial Intelligence Product Development Intern at **3rd Ain Smart Infotech** (Mar 2026 - May 2026)
 - 📊 Machine Learning / Data Analyst Intern at **Zilogic Systems** (Jun 2025 - Jul 2025)
 
