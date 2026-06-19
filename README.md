@@ -2,7 +2,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0A2A43&height=120&section=header&text=Karthig%20Rajan%20S&fontSize=40&fontColor=ffffff"/>
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=24&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=1000&lines=Full+Stack+Engineer;AI-Integrated+Workflows;Data+Pipelines+%26+Analytics;Scalable+Web+Systems"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=24&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=1000&lines=Full+Stack+Engineer;AI-Integrated+Workflows;Data+%26+Analytics;Scalable+Web+Systems"/>
 </h2>
 
 <p align="center">
