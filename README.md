@@ -16,9 +16,8 @@
   </p>
 
   <p align="center">
-    <code>🎓 B.Tech CSE (SRM) • CGPA 9.09/10.0</code> &nbsp;|&nbsp; 
+    <code>🎓 B.Tech CSE (SRM) code> &nbsp;|&nbsp; 
     <code>💼 2x Engineering Intern</code> &nbsp;|&nbsp; 
-    <code>📜 5x Certified</code>
   </p>
 
 </div>
@@ -44,16 +43,16 @@ Aspiring **Full Stack Developer & AI Engineer** with hands-on experience buildin
   Programming   :: Java (Java 21), Python, SQL, JavaScript, TypeScript
   Backend       :: Spring Boot 3, Spring WebFlux (WebClient), REST APIs, Flask, FastAPI
   Databases     :: PostgreSQL, MySQL, SQLite, Snowflake
-  AI & Data     :: Google Gemini 1.5 LLM, Prompt Engineering, NLP (TF-IDF, Naive Bayes), XAI, Scikit-learn, Pandas, NumPy
+  AI & Data     :: Google Gemini 1.5 LLM, Prompt Engineering, NLP (TF-IDF, Naive Bayes),Pandas, NumPy
   Frontend      :: React, Vite, Glassmorphism UI, HTML5, CSS3, Data Visualization (Recharts/Charts)
-  Tools & Cloud :: Git, GitHub, Linux, Docker, Oracle Cloud Infrastructure
+  Tools & Cloud :: Git, GitHub, Docker, Oracle Cloud Infrastructure
   Core CS       :: Data Structures & Algorithms, OOP, System Design, SDLC, Agile
 ```
 
 <br/>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,python,react,vite,ts,js,flask,fastapi,docker,linux,git,github,html,css&perline=9&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,python,react,vite,ts,js,flask,fastapi,docker,git,github,html,css&perline=9&theme=dark" />
 </p>
 
 ---
@@ -83,7 +82,6 @@ Aspiring **Full Stack Developer & AI Engineer** with hands-on experience buildin
 - **Asynchronous Pipeline:** Built a non-blocking pipeline via **Spring WebFlux (WebClient)** and **PostgreSQL** for semantic git diff evaluation against codebase docs.
 - **Human-in-the-loop Workflow:** Generates auditable reports and structured text replacement patches.
 - **Modern Dashboard:** Built a **React + Vite** dashboard with a dark-mode **glassmorphism design system**, repository health tracking, and side-by-side markdown diff visualization.
-- **Tech Stack:** `Java 21` • `Spring Boot` • `Spring WebFlux` • `Google Gemini 1.5 LLM` • `PostgreSQL` • `React` • `Vite`
 
 #### 🔍 [NLP-Based Log Processor & Bug Prioritisation System](https://github.com/Rajan3103/nlp-log-processor-and-bug-reporter)
 > End-to-end NLP data pipeline parsing `.log`, `.csv`, and `.pcap` files to auto-classify bugs by priority (Low to Critical).
@@ -91,13 +89,11 @@ Aspiring **Full Stack Developer & AI Engineer** with hands-on experience buildin
 - **NLP Classification:** Implemented tokenization, TF-IDF feature extraction, and Naive Bayes models.
 - **Backend & Storage:** Built high-concurrency **Flask REST APIs** backed by **MySQL**.
 - **Interactive Analytics:** Designed a **React dashboard** with pie, bar, and line charts for bug trend tracking.
-- **Tech Stack:** `Python` • `Flask` • `React` • `MySQL` • `Scikit-learn` • `TF-IDF` • `Naive Bayes` • `NLP`
 
 #### 🔐 [Login Lounge — Full Stack User Management System](https://github.com/Rajan3103/Login-Lounge)
 > Full-stack user management system with complete CRUD operations and end-to-end SDLC ownership.
 
 - **Full-Stack Architecture:** Developed scalable backend services in **Java Spring Boot** paired with a responsive **React** frontend.
-- **Tech Stack:** `Java` • `Spring Boot` • `React` • `JavaScript` • `SQL` • `HTML/CSS`
 
 ---
 
