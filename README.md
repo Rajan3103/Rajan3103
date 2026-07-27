@@ -142,11 +142,11 @@ Aspiring **Full Stack Developer & AI Engineer** with hands-on experience buildin
 ### 💬 Dev Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&quote=The+best+error+message+is+the+one+that+never+shows+up&author=Thomas+Fuchs" width="80%" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&quote=You+have+to+dream+before+your+dreams+can+come+true.&author=A.+P.+J.+Abdul+Kalam" width="80%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <sub>Code. Learn. Build. Repeat.</sub>
+  <sub>Code!!! Learn!!! Build!!! Repeat!!!</sub>
 </div>
