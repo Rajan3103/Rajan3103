@@ -5,6 +5,10 @@
   <br/>
 
   <p align="center">
+    <b>Full Stack Engineering · AI Integration · Backend Systems · Data Analytics</b>
+  </p>
+
+  <p align="center">
     <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Java+%26+Spring+Boot+Developer;AI+Integrated+Applications;Full+Stack+Web+Engineering;Data+Pipelines+%26+Backend+APIs" alt="Typing SVG" /></a>
   </p>
 
@@ -144,5 +148,5 @@ Aspiring **Full Stack Developer & AI Engineer** with hands-on experience buildin
 <br/>
 
 <div align="center">
-  <sub>Designed & Developed by Karthig Rajan S</sub>
+  <sub>Code. Learn. Build. Repeat.</sub>
 </div>
