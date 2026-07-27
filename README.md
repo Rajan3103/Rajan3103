@@ -121,6 +121,26 @@ Aspiring **Full Stack Developer & AI Engineer** with hands-on experience buildin
   <img src="https://streak-stats.demolab.com?user=Rajan3103&theme=tokyonight&hide_border=true&border_radius=8" />
 </div>
 
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rajan3103/Rajan3103/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rajan3103/Rajan3103/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Rajan3103/Rajan3103/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
+</div>
+
+---
+
+### 💬 Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&quote=The+best+error+message+is+the+one+that+never+shows+up&author=Thomas+Fuchs" width="80%" />
+</div>
+
 <br/>
 
 <div align="center">
