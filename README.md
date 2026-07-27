@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00f7ff,50:ff0090,100:00ff41&height=280&section=header&text=KARTHIG%20RAJAN%20S&fontSize=65&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20Java%20%26%20Spring%20Boot%20%7C%20AI%20Engineer&descAlignY=62&descAlign=50&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00f7ff,50:ff0090,100:00ff41&height=280&section=header&text=KARTHIG%20RAJAN%20S&fontSize=65&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20Java%20%26amp%3B%20Spring%20Boot%20%7C%20AI%20Engineer&descAlignY=62&descAlign=50&descSize=18" width="100%"/>
 
   <br/>
 
@@ -16,7 +16,7 @@
   </p>
 
   <p align="center">
-    <code>🎓 B.Tech CSE (SRM)</code> &nbsp;|&nbsp; 
+    <code>🎓 B.Tech CSE (SRM) • CGPA 9.09/10.0</code> &nbsp;|&nbsp; 
     <code>💼 2x Engineering Intern</code> &nbsp;|&nbsp; 
     <code>📜 5x Certified</code>
   </p>
