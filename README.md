@@ -16,8 +16,8 @@
   </p>
 
   <p align="center">
-    <code>🎓 B.Tech CSE (SRM) code> &nbsp;|&nbsp; 
-    <code>💼 2x Engineering Intern</code> &nbsp;|&nbsp; 
+    <code>🎓 B.Tech CSE (SRM)</code> &nbsp;|&nbsp; 
+    <code>💼 2x Engineering Intern</code>
   </p>
 
 </div>
@@ -43,7 +43,7 @@ Aspiring **Full Stack Developer & AI Engineer** with hands-on experience buildin
   Programming   :: Java (Java 21), Python, SQL, JavaScript, TypeScript
   Backend       :: Spring Boot 3, Spring WebFlux (WebClient), REST APIs, Flask, FastAPI
   Databases     :: PostgreSQL, MySQL, SQLite, Snowflake
-  AI & Data     :: Google Gemini 1.5 LLM, Prompt Engineering, NLP (TF-IDF, Naive Bayes),Pandas, NumPy
+  AI & Data     :: Google Gemini 1.5 LLM, Prompt Engineering, NLP (TF-IDF, Naive Bayes), Pandas, NumPy
   Frontend      :: React, Vite, Glassmorphism UI, HTML5, CSS3, Data Visualization (Recharts/Charts)
   Tools & Cloud :: Git, GitHub, Docker, Oracle Cloud Infrastructure
   Core CS       :: Data Structures & Algorithms, OOP, System Design, SDLC, Agile
