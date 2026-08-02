@@ -1,11 +1,11 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00f7ff,50:ff0090,100:00ff41&height=280&section=header&text=KARTHIG%20RAJAN%20S&fontSize=65&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20Java%20%26amp%3B%20Spring%20Boot%20%7C%20AI%20Engineer&descAlignY=62&descAlign=50&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00f7ff,50:ff0090,100:00ff41&height=280&section=header&text=KARTHIG%20RAJAN%20S&fontSize=65&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=Software%20Developer%20%7C%20Java%20%26amp%3B%20Spring%20Boot%20%7C%20AI%20Engineer&descAlignY=62&descAlign=50&descSize=18" width="100%"/>
 
   <br/>
 
   <p align="center">
-    <b>Full Stack Engineering · AI Integration · Backend Systems · Data Analytics</b>
+    <b>Software Developer · AI Integration · Backend Systems · Data Analytics</b>
   </p>
 
   <p align="center">
