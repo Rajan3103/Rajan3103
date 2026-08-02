@@ -32,7 +32,7 @@
 
 ### 👤 About Me
 
-Aspiring **Full Stack Developer & AI Engineer** with hands-on experience building scalable backend microservices, modern interactive web dashboards, and AI-integrated workflows. Strong foundation in Java 21, Spring Boot, Spring WebFlux, Python, and SQL, coupled with practical exposure to LLMs (Google Gemini 1.5), NLP pipelines, and data analytics.
+Aspiring **Software Developer & AI Engineer** with hands-on experience building scalable backend microservices, modern interactive web dashboards, and AI-integrated workflows. Strong foundation in Java 21, Spring Boot, Spring WebFlux, Python, and SQL, coupled with practical exposure to LLMs (Google Gemini 1.5), NLP pipelines, and data analytics.
 
 - 🎓 **Education:** B.Tech in Computer Science & Engineering @ **SRM Institute of Science and Technology** *(2023 – Present)* | **CGPA: 9.09 / 10.0**
 - 💼 **Recent Internship:** AI Product Development Intern @ **3rd Ain Smart Infotech** *(Mar 2026 – May 2026)*
