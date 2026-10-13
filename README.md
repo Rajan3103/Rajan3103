@@ -1,133 +1,263 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00f7ff,50:ff0090,100:00ff41&height=280&section=header&text=KARTHIG%20RAJAN%20S&fontSize=65&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=Software%20Developer%20%7C%20Java%20%26amp%3B%20Spring%20Boot%20%7C%20AI%20Engineer&descAlignY=62&descAlign=50&descSize=18" width="100%"/>
+<!--  ╔══════════════════════════════════════════════════════════╗  -->
+<!--  ║             ANIMATED TERMINAL HEADER BANNER             ║  -->
+<!--  ╚══════════════════════════════════════════════════════════╝  -->
 
-  <br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&width=700&height=100&lines=KARTHIG+RAJAN+S;Software+Developer+%7C+AI+Engineer+%7C+Data+Analyst" alt="Typing SVG" />
 
-  <p align="center">
-    <b>Software Developer · AI Integration · Backend Systems · Data Analytics</b>
-  </p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=500&color=00BCD4&center=true&vCenter=true&width=700&lines=Java+21+%C2%B7+Spring+Boot+3+%C2%B7+Spring+WebFlux+%C2%B7+PostgreSQL;Google+Gemini+1.5+%C2%B7+Prompt+Engineering+%C2%B7+NLP+Pipelines;Data+Analytics+%C2%B7+Power+BI+%C2%B7+Snowflake+%C2%B7+React+Dashboards" alt="Skills typing" />
 
-  <p align="center">
-    <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Java+%26+Spring+Boot+Developer;AI+Integrated+Applications;Full+Stack+Web+Engineering;Data+Pipelines+%26+Backend+APIs" alt="Typing SVG" /></a>
-  </p>
+<br/>
 
-  <p align="center">
-    <a href="mailto:rajankarthig@gmail.com"><img src="https://img.shields.io/badge/Email-rajankarthig%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-    <a href="https://linkedin.com/in/karthig-rajan-s"><img src="https://img.shields.io/badge/LinkedIn-karthig--rajan--s-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-    <a href="https://github.com/Rajan3103"><img src="https://img.shields.io/badge/GitHub-Rajan3103-181717?style=flat-square&logo=github&logoColor=white" /></a>
-    <img src="https://komarev.com/ghpvc/?username=Rajan3103&color=38BDF8&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  </p>
-
-  <p align="center">
-    <code>🎓 B.Tech CSE (SRM)</code> &nbsp;|&nbsp; 
-    <code>💼 2x Engineering Intern</code>
-  </p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthig-rajan-s)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajankarthig@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rajan3103)
+![Profile Views](https://komarev.com/ghpvc/?username=Rajan3103&style=for-the-badge&color=00ff41&label=PROFILE+VIEWS)
 
 </div>
 
-<br/>
-
 ---
-
-### 👤 About Me
-
-Aspiring **Software Developer & AI Engineer** with hands-on experience building scalable backend microservices, modern interactive web dashboards, and AI-integrated workflows. Strong foundation in Java 21, Spring Boot, Spring WebFlux, Python, and PostgreSQL, coupled with practical exposure to LLMs (Google Gemini 1.5), NLP pipelines, and data analytics.
-
-- 🎓 **Education:** B.Tech in Computer Science & Engineering @ **SRM Institute of Science and Technology** *(2023 – Present)* | **CGPA: 9.09 / 10.0**
-- 💼 **Recent Internship:** AI Product Development Intern @ **3rd Ain Smart Infotech** *(Mar 2026 – May 2026)*
-- 📊 **Previous Internship:** ML & Full-Stack Intern @ **Zilogic Systems** *(Jun 2025 – Jul 2025)*
-- ⚡ **Core Focus:** Building high-concurrency REST APIs, asynchronous pipelines, and AI-native developer tools.
-
----
-
-### 🛠️ Tech Stack & Skills
-
-```
-  Programming   :: Java (Java 21), Python, SQL, JavaScript, TypeScript
-  Backend       :: Spring Boot 3, Spring WebFlux (WebClient), REST APIs, Flask, FastAPI
-  Databases     :: PostgreSQL, MySQL, SQLite, Snowflake
-  AI & Data     :: Google Gemini 1.5 LLM, Prompt Engineering, NLP (TF-IDF, Naive Bayes), Pandas, NumPy
-  Frontend      :: React, Vite, Glassmorphism UI, HTML5, CSS3, Data Visualization (Recharts/Charts)
-  Tools & Cloud :: Git, GitHub, Docker, Oracle Cloud Infrastructure
-  Core CS       :: Data Structures & Algorithms, OOP, System Design, SDLC, Agile
-```
-
-<br/>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,python,react,vite,ts,js,flask,fastapi,docker,git,github,html,css&perline=9&theme=dark" />
-</p>
-
----
-
-### 💼 Work Experience
-
-#### **3rd Ain Smart Infotech** — *Artificial Intelligence Product Development Intern*
-`Mar 2026 – May 2026` • *India*
-- Contributed to the full AI product lifecycle (design, development, deployment) for customer-facing AI solutions.
-- Authored data preprocessing scripts with strict input validation to eliminate pipeline crashes during QA.
-- Worked within a cross-functional Agile team translating business requirements into sprint deliverables.
-
-#### **Zilogic Systems** — *Machine Learning / Full-Stack Intern*
-`Jun 2025 – Jul 2025` • *India*
-- Built and deployed full-stack web applications using **React, Flask, and SQL**.
-- Designed scalable **REST APIs** with MySQL and SQLite supporting high-concurrency workloads.
-- Optimised backend services through query tuning and caching, reducing API response time by **~30%**.
-- Gained hands-on experience with **Java and Spring Boot**.
-
----
-
-### 🚀 Featured Projects
-
-#### 📄 [DocDrift — AI-Assisted Documentation Drift Detector](https://github.com/Rajan3103/Doc_Drift)
-> Automated documentation drift detection system using **Spring Boot (Java 21)** and **Google Gemini 1.5 LLM**.
-
-- **Asynchronous Pipeline:** Built a non-blocking pipeline via **Spring WebFlux (WebClient)** and **PostgreSQL** for semantic git diff evaluation against codebase docs.
-- **Human-in-the-loop Workflow:** Generates auditable reports and structured text replacement patches.
-- **Modern Dashboard:** Built a **React + Vite** dashboard with a dark-mode **glassmorphism design system**, repository health tracking, and side-by-side markdown diff visualization.
-
-#### 🔍 [NLP-Based Log Processor & Bug Prioritisation System](https://github.com/Rajan3103/nlp-log-processor-and-bug-reporter)
-> End-to-end NLP data pipeline parsing `.log`, `.csv`, and `.pcap` files to auto-classify bugs by priority (Low to Critical).
-
-- **NLP Classification:** Implemented tokenization, TF-IDF feature extraction, and Naive Bayes models.
-- **Backend & Storage:** Built high-concurrency **Flask REST APIs** backed by **MySQL**.
-- **Interactive Analytics:** Designed a **React dashboard** with pie, bar, and line charts for bug trend tracking.
-
-#### 🔐 [Login Lounge — Full Stack User Management System](https://github.com/Rajan3103/Login-Lounge)
-> Full-stack user management system with complete CRUD operations and end-to-end SDLC ownership.
-
-- **Full-Stack Architecture:** Developed scalable backend services in **Java Spring Boot** paired with a responsive **React** frontend.
-
----
-
-### 📜 Certifications & Achievements
-
-- 🥇 **Oracle Cloud Infrastructure AI Foundations Associate** — Oracle *(2025)*
-- 🟡 **Lean Six Sigma Yellow Belt** — ANEXAS *(2025)*
-- 📊 **IBM Certified Data Analyst** — IBM *(2024)*
-- 📈 **Microsoft Power BI** — Microsoft *(2024)*
-- ❄️ **Snowflake SnowPro Core** — Snowflake *(2024)*
-- 🎭 **President, Theatrical Club:** Organised events and competitions for **100+ students**.
-- 🤝 **Peer Mentor:** Guided junior students in AI development, system design, and career prep.
-- 🤼 **Kabaddi College Team Captain:** Led the college varsity team.
-
----
-
-### 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Rajan3103&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs?username=Rajan3103&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-  
-  <br/><br/>
-  
-  <img src="https://streak-stats.demolab.com?user=Rajan3103&theme=tokyonight&hide_border=true&border_radius=8" />
+
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║   Software Developer  ·  AI Engineer  ·  Data Analyst                ║
+║   SRM Institute of Science & Technology  ·  B.Tech CSE (9.09 CGPA)   ║
+║   Certified: Oracle Cloud AI · Snowflake · IBM Data · Lean Six Sigma ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+> Architecting high-concurrency **backend systems**, intelligent **data pipelines**, and **AI-native workflows** from the ground up — specializing in **Java 21 / Spring Boot 3**, **Google Gemini 1.5 LLM**, **PostgreSQL**, and **Full-Stack Analytics**.
+
+---
+
+## ⚡ Experience
+
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║  ROLE                          ORGANIZATION              PERIOD      ║
+╠══════════════════════════════════════════════════════════════════════╣
+║  AI Product Development Intern 3rd Ain Smart Infotech Mar'26–May'26  ║
+║  Machine Learning / Full-Stack Zilogic Systems        Jun'25–Jul'25  ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+<details>
+<summary><b>🔷 3rd Ain Smart Infotech — AI Product Development Intern</b> &nbsp;<code>Mar 2026 – May 2026</code></summary>
+<br/>
+
+- Contributed to the **full AI product lifecycle** (design, development, deployment) for customer-facing AI solutions.
+- Authored data preprocessing scripts with strict input validation to eliminate pipeline crashes during QA.
+- Collaborated within a cross-functional Agile team, translating business requirements into functional specs and supporting sprint-based delivery.
+
+</details>
+
+<details>
+<summary><b>🔷 Zilogic Systems — Machine Learning / Full-Stack Intern</b> &nbsp;<code>Jun 2025 – Jul 2025</code></summary>
+<br/>
+
+- Built and deployed full-stack web applications using **React, Flask, and SQL**.
+- Designed scalable **REST APIs** with MySQL and SQLite supporting high-concurrency workloads.
+- Optimised backend services through query optimisation and caching, reducing API response time by **~30%**.
+- Gained hands-on production experience with **Java and Spring Boot**.
+
+</details>
+
+---
+
+## 🛡️ Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📄 [DocDrift — AI Documentation Drift Detector](https://github.com/Rajan3103/Doc_Drift)
+`Spring Boot 3 · Java 21 · Gemini 1.5 · React + Vite`
+
+```
+┌─────────────────────────────────┐
+│  Semantic Git Diff Analysis     │
+│  Non-Blocking WebFlux Pipeline  │
+│  Glassmorphism Dark Dashboard   │
+└─────────────────────────────────┘
+```
+Automated documentation drift detection evaluating git diffs against codebase documentation to eliminate outdated API specs. Features an asynchronous **Spring WebFlux (WebClient)** pipeline, PostgreSQL persistence, and an auditable human-in-the-loop patch review workflow.
+
+</td>
+<td width="50%" valign="top">
+
+### 🔍 [NLP Log Processor & Bug Prioritiser](https://github.com/Rajan3103/nlp-log-processor-and-bug-reporter)
+`Python · Flask · MySQL · NLP · React`
+
+```
+┌─────────────────────────────────┐
+│  Log & PCAP Stream Parsing      │
+│  TF-IDF & Naive Bayes Engine    │
+│  Severity Triage & Analytics    │
+└─────────────────────────────────┘
+```
+End-to-end NLP data pipeline parsing `.log`, `.csv`, and `.pcap` files to auto-classify bugs by priority (Low to Critical). High-concurrency Flask REST APIs backed by MySQL with an interactive React dashboard for bug distribution tracking.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 [AI-BI-Bkups — AI Business Intelligence Platform](https://github.com/Rajan3103)
+`PostgreSQL · Python · DBMS Architecture · AI Analytics`
+
+```
+┌─────────────────────────────────┐
+│  Database & DBMS Layer Design   │
+│  Structured Persistence Schema  │
+│  AI-Powered Analytics Ingestion │
+└─────────────────────────────────┘
+```
+Contributed to the database and DBMS layer of an AI-powered BI platform — designed and managed PostgreSQL schemas and reliable structured data persistence supporting AI analytics and reporting workflows.
+
+</td>
+<td width="50%" valign="top">
+
+### 🔐 [Login Lounge — User Management System](https://github.com/Rajan3103/Login-Lounge)
+`Java · Spring Boot · React · MySQL`
+
+```
+┌─────────────────────────────────┐
+│  Full CRUD Security System      │
+│  End-to-End SDLC Lifecycle      │
+│  Scalable REST Microservices    │
+└─────────────────────────────────┘
+```
+Full-stack authentication and user management system built with robust backend services in Spring Boot paired with a modern, responsive React frontend.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎓 Education & Certifications
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+```
+╔══════════════════════════════════════════════════╗
+║  B.Tech Computer Science & Engineering           ║
+║  SRM Institute of Science and Technology         ║
+║  CGPA: 9.09 / 10.0  ·  2023 – Present            ║
+╚══════════════════════════════════════════════════╝
+```
+
+</td>
+<td width="45%" valign="top">
+
+```
+╔═══════════════════════════════════════════╗
+║  CERTIFICATIONS                           ║
+╠═══════════════════════════════════════════╣
+║  🥇  Oracle Cloud AI Foundations Assoc.   ║
+║  🟡  Lean Six Sigma Yellow Belt (ANEXAS)  ║
+║  📊  IBM Certified Data Analyst           ║
+║  📈  Microsoft Power BI                   ║
+║  ❄️  Snowflake SnowPro Core               ║
+╚═══════════════════════════════════════════╝
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧰 Tech Arsenal
+
+**Programming Languages**
+
+![Java](https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+**Backend, AI & Databases**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring WebFlux](https://img.shields.io/badge/Spring_WebFlux-6DB33F?style=flat-square)
+![Google Gemini](https://img.shields.io/badge/Gemini_1.5_LLM-8E75C2?style=flat-square&logo=google&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+
+**Frontend, Analytics & Tools**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**Core Engineering Domains**
+
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║  Backend APIs & Microservices   ██══════════════════  Generative AI  ║
+║  Data Analytics & Modeling     ███████████████████░  Spring WebFlux  ║
+║  Relational DBMS & SQL Tuning  ██████████████████░░  NLP Pipelines   ║
+║  Full-Stack React Dashboards   █████████████████░░░  System Design   ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+---
+
+## 🏆 Leadership & Initiatives
+
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║   Theatrical Club — SRMIST                                           ║
+║   [ President ] ──► Led & coordinated competitions for 100+ students ║
+║                                                                      ║
+║   Peer Mentor ────► Mentoring junior engineers in AI & System Design  ║
+║   Sports ─────────► Varsity Kabaddi College Team Captain             ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rajan3103&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff&count_private=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajan3103&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Rajan3103&theme=matrix&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajan3103&theme=react-dark&hide_border=true&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff" />
+
 </div>
 
 ---
 
-### 🐍 Contribution Snake
+### 🐍 Contribution Graph
 
 <div align="center">
   <picture>
@@ -139,14 +269,22 @@ Aspiring **Software Developer & AI Engineer** with hands-on experience building 
 
 ---
 
-### 💬 Dev Quote
-
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&quote=You+have+to+dream+before+your+dreams+can+come+true.&author=A.+P.+J.+Abdul+Kalam" width="80%" />
-</div>
 
-<br/>
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║   "You have to dream before your dreams can come true."              ║
+║                                                                      ║
+║                                              — A. P. J. Abdul Kalam  ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
 
-<div align="center">
-  <sub>Code!!! Learn!!! Build!!! Repeat!!!</sub>
+📍 India &nbsp;·&nbsp; 📧 [rajankarthig@gmail.com](mailto:rajankarthig@gmail.com) &nbsp;·&nbsp; 📱 +91 82485 81022 &nbsp;·&nbsp; 💼 [linkedin.com/in/karthig-rajan-s](https://linkedin.com/in/karthig-rajan-s)
+
+**Open to:** Software Development · AI Engineering · Backend Microservices · Data Analytics & Internships
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff41&height=80&section=footer&fontColor=00ff41" />
+
 </div>
