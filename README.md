@@ -26,7 +26,7 @@
   <a href="https://github.com/Rajan3103">
     <img src="https://img.shields.io/badge/GitHub-Rajan3103-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Rajan3103&color=61AFEF&style=flat-square&label=Profile+Hits" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Rajan3103&color=61afef&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
 
 <p align="center">
@@ -343,10 +343,6 @@ $ mvn clean compile test --batch-mode
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=Rajan3103&theme=onedark&hide_border=true&background=1e2227&ring=61afef&fire=e06c75&currStreakLabel=98c379&border_radius=8" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajan3103&theme=github-compact&hide_border=true&bg_color=1e2227&color=61afef&line=98c379&point=e5c07b" width="100%" />
 
 </div>
 
