@@ -26,7 +26,7 @@
   <a href="https://github.com/Rajan3103">
     <img src="https://img.shields.io/badge/GitHub-Rajan3103-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Rajan3103&color=61afef&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Rajan3103.Rajan3103&left_text=Profile+Views&left_color=%23555555&right_color=%2361afef&radius=0" alt="Profile Views" />
 </p>
 
 <p align="center">
