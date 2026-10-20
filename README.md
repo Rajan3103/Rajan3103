@@ -9,7 +9,7 @@
   <code><b>karthig-workspace — IntelliJ IDEA 2026.2 (Ultimate Edition)</b></code>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=61AFEF&center=true&vCenter=true&multiline=true&width=720&height=95&lines=KARTHIG+RAJAN+S;Software+Developer+%7C+AI+Engineer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=61AFEF&center=true&vCenter=true&multiline=true&width=720&height=95&lines=KARTHIG+RAJAN+S;Software+Developer+%7C+Data+Analytics" alt="Typing SVG" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=500&color=98C379&center=true&vCenter=true&width=720&lines=Java+21+%C2%B7+Spring+Boot+3+%C2%B7+Spring+WebFlux+%C2%B7+PostgreSQL;Data+Analytics+%C2%B7+Prompt+Engineering;Snowflake+%C2%B7+Power+BI+%C2%B7+React+Dashboards" alt="Skills Typing" />
 
