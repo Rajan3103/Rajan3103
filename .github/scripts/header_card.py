@@ -12,6 +12,7 @@ Edit the TEXT section, then run:
 It rewrites the SVGs and the header block in README.md (between the
 HEADER:START / HEADER:END comments).
 """
+import hashlib
 import math
 import os
 import re
@@ -128,7 +129,15 @@ def readme_block(rows):
 
 def main():
     rows = pieces()
+    # Put a short fingerprint of each image's content in its file name
+    # (e.g. quote-3fa9c1.svg). When the content changes the name changes,
+    # so browsers can't keep showing an old cached copy.
+    rows = [[(f"{name[:-4]}-{hashlib.sha1(content.encode()).hexdigest()[:6]}.svg", w, content, link, alt)
+             for name, w, content, link, alt in row] for row in rows]
     os.makedirs(OUT, exist_ok=True)
+    for old in os.listdir(OUT):          # remove the previous version's files
+        if old.endswith(".svg"):
+            os.remove(os.path.join(OUT, old))
     for row in rows:
         for name, _, content, _, _ in row:
             with open(os.path.join(OUT, name), "w", encoding="utf-8") as f:
