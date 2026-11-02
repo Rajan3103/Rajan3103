@@ -17,7 +17,7 @@
 
 <!-- IDE Action Bar / Social Connectors -->
 <p align="center">
-  <a href="https://linkedin.com/in/karthig-rajan-s">
+  <a href="https://www.linkedin.com/in/karthig-rajan-s-417ab0297/">
     <img src="https://img.shields.io/badge/LinkedIn-karthig--rajan--s-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:rajankarthig@gmail.com">
@@ -337,8 +337,8 @@ $ mvn clean compile test --batch-mode
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=Rajan3103&show_icons=true&hide_border=true&bg_color=000000&title_color=ffb000&icon_color=00ff9c&text_color=ffcc66&ring_color=ffb000&count_private=true" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajan3103&layout=compact&hide_border=true&bg_color=000000&title_color=ffb000&text_color=ffcc66" />
+<img height="175" alt="GitHub stats" src="./profile/stats.svg" />
+<img height="175" alt="Most used languages" src="./profile/top-langs.svg" />
 
 <br/><br/>
 
@@ -348,14 +348,10 @@ $ mvn clean compile test --batch-mode
 
 ---
 
-### 🐍 Contribution Stream
+### 🏙️ Contribution Skyline
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rajan3103/Rajan3103/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rajan3103/Rajan3103/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Rajan3103/Rajan3103/output/github-contribution-grid-snake-dark.svg" width="100%" />
-  </picture>
+  <img alt="3D contribution city" src="./profile-3d-contrib/profile-amber-city.svg" width="100%" />
 </div>
 
 ---
@@ -366,7 +362,7 @@ $ mvn clean compile test --batch-mode
   <tr>
     <td align="center" bgcolor="#000000">
       <code><b>git status:</b> On branch main · Nothing to commit, working tree clean</code><br/>
-      <sub>📍 India &nbsp;•&nbsp; 📧 <a href="mailto:rajankarthig@gmail.com">rajankarthig@gmail.com</a> &nbsp;•&nbsp; 📱 +91 82485 81022 &nbsp;•&nbsp; 💼 <a href="https://linkedin.com/in/karthig-rajan-s">LinkedIn</a></sub>
+      <sub>📍 India &nbsp;•&nbsp; 📧 <a href="mailto:rajankarthig@gmail.com">rajankarthig@gmail.com</a> &nbsp;•&nbsp; 💼 <a href="https://www.linkedin.com/in/karthig-rajan-s-417ab0297/">LinkedIn</a></sub>
     </td>
   </tr>
 </table>
