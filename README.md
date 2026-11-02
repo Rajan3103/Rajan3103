@@ -1,39 +1,25 @@
 <div align="center">
 
 <!-- ══════════════════════════════════════════════════════════════════════ -->
-<!--                    IDE TOP WINDOW BAR & CONTROLS                       -->
+<!--              TRADING TERMINAL HEADER (assets/header-terminal.svg)      -->
+<!--   To change the text: edit .github/scripts/header_card.py and run it   -->
 <!-- ══════════════════════════════════════════════════════════════════════ -->
 
-<p align="left">
-  &nbsp; 🔴 &nbsp; 🟡 &nbsp; 🟢 &nbsp;&nbsp;&nbsp;
-  <code><b>karthig-workspace — IntelliJ IDEA 2026.2 (Ultimate Edition)</b></code>
-</p>
+<img width="100%" alt="Karthig Rajan S — Software Developer | AI Engineer | Data Analytics" src="./assets/header-terminal.svg" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=FFB000&center=true&vCenter=true&multiline=true&width=720&height=95&lines=KARTHIG+RAJAN+S;Software+Developer+%7C+Data+Analytics" alt="Typing SVG" />
+<br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=500&color=00FF9C&center=true&vCenter=true&width=720&lines=Java+21+%C2%B7+Spring+Boot+3+%C2%B7+Spring+WebFlux+%C2%B7+PostgreSQL;Data+Analytics+%C2%B7+Prompt+Engineering;Snowflake+%C2%B7+Power+BI+%C2%B7+React+Dashboards" alt="Skills Typing" />
-
-<br/>
-
-<!-- IDE Action Bar / Social Connectors -->
 <p align="center">
   <a href="https://www.linkedin.com/in/karthig-rajan-s-417ab0297/">
-    <img src="https://img.shields.io/badge/LinkedIn-karthig--rajan--s-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-karthig--rajan--s-ffb000?style=flat-square&logo=linkedin&logoColor=ffb000&labelColor=1a1400" />
   </a>
   <a href="mailto:rajankarthig@gmail.com">
-    <img src="https://img.shields.io/badge/Email-rajankarthig%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-rajankarthig%40gmail.com-ffb000?style=flat-square&logo=gmail&logoColor=ffb000&labelColor=1a1400" />
   </a>
   <a href="https://github.com/Rajan3103">
-    <img src="https://img.shields.io/badge/GitHub-Rajan3103-181717?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Rajan3103-ffb000?style=flat-square&logo=github&logoColor=ffb000&labelColor=1a1400" />
   </a>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Rajan3103.Rajan3103&left_text=Profile+Views&left_color=%231a1400&right_color=%23ffb000&radius=0" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <code>▶ Run Profile</code> &nbsp;•&nbsp; 
-  <code>🐛 Debug (0 Errors)</code> &nbsp;•&nbsp; 
-  <code>JDK 21.0.4</code> &nbsp;•&nbsp; 
-  <code>Branch: main*</code>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Rajan3103.Rajan3103&left_text=Profile+Views&left_color=%231a1400&right_color=%2300ff9c&radius=0" alt="Profile Views" />
 </p>
 
 </div>
