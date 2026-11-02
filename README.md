@@ -1,11 +1,13 @@
 <div align="center">
 
 <!-- ══════════════════════════════════════════════════════════════════════ -->
-<!--              TRADING TERMINAL HEADER (assets/header-terminal.svg)      -->
-<!--   To change the text: edit .github/scripts/header_card.py and run it   -->
+<!--    TRADING TERMINAL HEADER — every key, panel and cell is a link       -->
+<!--   To change it: edit .github/scripts/header_card.py and run it         -->
 <!-- ══════════════════════════════════════════════════════════════════════ -->
 
-<img width="100%" alt="Karthig Rajan S — Software Developer | AI Engineer | Data Analytics" src="./assets/header-terminal.svg" />
+<!-- HEADER:START -->
+<a href="https://www.linkedin.com/in/karthig-rajan-s-417ab0297/"><img src="./assets/header/go.svg" width="10%" alt="LinkedIn" /></a><a href="#profile"><img src="./assets/header/f1.svg" width="11.976%" alt="F1 PROFILE" /></a><a href="#projects"><img src="./assets/header/f2.svg" width="12.79%" alt="F2 PROJECTS" /></a><a href="#experience"><img src="./assets/header/f3.svg" width="14.534%" alt="F3 EXPERIENCE" /></a><a href="#stack"><img src="./assets/header/f4.svg" width="10.232%" alt="F4 STACK" /></a><a href="#stats"><img src="./assets/header/f5.svg" width="10.232%" alt="F5 STATS" /></a><a href="mailto:rajankarthig@gmail.com"><img src="./assets/header/status.svg" width="30.232%" alt="Open to work" /></a><br/><a href="#profile"><img src="./assets/header/quote.svg" width="100%" alt="KARTHIG RAJAN S" /></a><br/><a href="#projects"><img src="./assets/header/cell1.svg" width="25%" alt="FOCUS" /></a><a href="#stack"><img src="./assets/header/cell2.svg" width="25%" alt="PRIMARY" /></a><a href="#data"><img src="./assets/header/cell3.svg" width="25%" alt="DATA" /></a><a href="mailto:rajankarthig@gmail.com"><img src="./assets/header/cell4.svg" width="25%" alt="STATUS" /></a><br/><a href="#stack"><img src="./assets/header/ticker.svg" width="100%" alt="Skills ticker" /></a>
+<!-- HEADER:END -->
 
 <br/><br/>
 
@@ -41,6 +43,8 @@
 ```
 
 ---
+
+<a name="profile"></a>
 
 <details open>
 <summary><b>☕ 1. KarthigProfile.java</b> &nbsp;<code>[Personal Bio, Academics & Leadership]</code></summary>
@@ -88,6 +92,8 @@ public class KarthigProfile implements HighPerformanceEngineer {
 </details>
 
 ---
+
+<a name="projects"></a>
 
 <details>
 <summary><b>⚡ 2. DocDriftService.java</b> &nbsp;<code>[Project: AI Documentation Drift Detector]</code></summary>
@@ -178,6 +184,8 @@ class BugTriageEngine:
 
 ---
 
+<a name="data"></a>
+
 <details>
 <summary><b>🐘 4. ai_bi_schema.sql</b> &nbsp;<code>[Project: AI-Powered Business Intelligence Platform]</code></summary>
 <br/>
@@ -209,6 +217,8 @@ CREATE INDEX idx_bi_telemetry_time ON bi_telemetry_nodes (created_at DESC);
 </details>
 
 ---
+
+<a name="experience"></a>
 
 <details>
 <summary><b>💼 5. WorkExperience.java</b> &nbsp;<code>[Production Internship History]</code></summary>
@@ -249,6 +259,8 @@ public enum WorkExperience {
 </details>
 
 ---
+
+<a name="stack"></a>
 
 <details>
 <summary><b>📦 6. pom.xml</b> &nbsp;<code>[Tech Stack Dependencies & Libraries]</code></summary>
@@ -318,6 +330,8 @@ $ mvn clean compile test --batch-mode
 </details>
 
 ---
+
+<a name="stats"></a>
 
 ### 📊 Live Telemetry & GitHub Analytics
 
