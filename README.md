@@ -337,8 +337,7 @@ $ mvn clean compile test --batch-mode
 
 <div align="center">
 
-<img height="175" alt="GitHub stats" src="./profile/stats.svg" />
-<img height="175" alt="Most used languages" src="./profile/top-langs.svg" />
+<img width="100%" alt="GitHub terminal stats" src="./profile/terminal.svg" />
 
 <br/><br/>
 

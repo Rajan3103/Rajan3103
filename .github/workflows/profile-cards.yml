@@ -2,8 +2,7 @@ name: Generate Profile Cards
 
 # Builds every image the profile README shows from your own GitHub data and
 # saves them in this repo, so nothing depends on a shared public server.
-#   profile/stats.svg                       -> GitHub stats card
-#   profile/top-langs.svg                   -> Most used languages card
+#   profile/terminal.svg                    -> terminal-style stats card
 #   profile-3d-contrib/profile-amber-city.svg -> 3D contribution city
 
 on:
@@ -26,23 +25,13 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v5
 
-      # Uses the STATS_TOKEN secret if you add one (includes private repos),
-      # otherwise falls back to the built-in token (public data only).
-      - name: Generate stats card
-        uses: stats-organization/github-readme-stats-action@v2.1.0
-        with:
-          card: stats
-          options: "username=${{ github.repository_owner }}&show_icons=true&hide_border=true&bg_color=000000&title_color=ffb000&icon_color=00ff9c&text_color=ffcc66&ring_color=ffb000&count_private=true"
-          path: profile/stats.svg
-          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
-
-      - name: Generate top languages card
-        uses: stats-organization/github-readme-stats-action@v2.1.0
-        with:
-          card: top-langs
-          options: "username=${{ github.repository_owner }}&layout=compact&langs_count=6&hide_border=true&bg_color=000000&title_color=ffb000&text_color=ffcc66"
-          path: profile/top-langs.svg
-          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
+      # Uses the STATS_TOKEN secret if you add one, otherwise the built-in
+      # token. Only PUBLIC repositories are ever listed on the card.
+      - name: Generate terminal stats card
+        env:
+          GITHUB_TOKEN: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+        run: python3 .github/scripts/terminal_card.py profile/terminal.svg
 
       - name: Generate 3D contribution city
         uses: yoshi389111/github-profile-3d-contrib@v0.9.3
@@ -55,7 +44,7 @@ jobs:
         run: |
           git config user.name github-actions
           git config user.email github-actions@users.noreply.github.com
-          git add profile profile-3d-contrib
+          git add -A profile profile-3d-contrib
           if git commit -m "Update profile cards"; then
             git push
           fi
