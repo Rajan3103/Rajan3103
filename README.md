@@ -337,8 +337,8 @@ $ mvn clean compile test --batch-mode
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=Rajan3103&show_icons=true&hide_border=true&bg_color=000000&title_color=ffb000&icon_color=00ff9c&text_color=ffcc66&ring_color=ffb000&count_private=true" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajan3103&layout=compact&hide_border=true&bg_color=000000&title_color=ffb000&text_color=ffcc66" />
+<img height="175" alt="GitHub stats" src="./profile/stats.svg" />
+<img height="175" alt="Most used languages" src="./profile/top-langs.svg" />
 
 <br/><br/>
 
