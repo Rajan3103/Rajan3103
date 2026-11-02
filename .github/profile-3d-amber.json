@@ -1,0 +1,17 @@
+{
+  "type": "normal",
+  "fileName": "profile-amber-city.svg",
+  "backgroundColor": "#000000",
+  "foregroundColor": "#ffcc66",
+  "strongColor": "#ffb000",
+  "weakColor": "#7a6a3a",
+  "radarColor": "#00ff9c",
+  "growingAnimation": true,
+  "contribColors": [
+    "#1a1400",
+    "#5a4200",
+    "#906300",
+    "#c08400",
+    "#ffb000"
+  ]
+}

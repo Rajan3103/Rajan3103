@@ -348,14 +348,10 @@ $ mvn clean compile test --batch-mode
 
 ---
 
-### 🐍 Contribution Stream
+### 🏙️ Contribution Skyline
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rajan3103/Rajan3103/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rajan3103/Rajan3103/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Rajan3103/Rajan3103/output/github-contribution-grid-snake-dark.svg" width="100%" />
-  </picture>
+  <img alt="3D contribution city" src="./profile-3d-contrib/profile-amber-city.svg" width="100%" />
 </div>
 
 ---
