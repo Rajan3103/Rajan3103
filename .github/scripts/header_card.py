@@ -23,7 +23,6 @@ EMAIL = "mailto:rajankarthig@gmail.com"
 NAME = "KARTHIG RAJAN S"
 ROLE = "Software Developer | AI Engineer | Data Analytics"
 KICKER = "DEVELOPER EQUITY · SRM IST · B.TECH CSE"
-PRICE, PRICE_LABEL = "9.09", "▲ CGPA"
 PRICE_NOTE = "5 CERTS · 2 INTERNSHIPS · OPEN TO WORK"
 # (label, link) — "#name" jumps to an <a name="name"> anchor in the README
 FKEYS = [("F1 PROFILE", "#profile"), ("F2 PROJECTS", "#projects"),
@@ -83,8 +82,6 @@ def pieces():
     h = 112
     body = (text(22, 30, KICKER, MUTED, size=11) + text(20, 72, NAME, AMBER, size=36, weight="bold")
             + text(22, 98, ROLE, SOFT, size=13)
-            + text(W - 22, 72, PRICE_LABEL, GREEN, size=15, weight="bold", anchor="end")
-            + text(W - 22 - len(PRICE_LABEL) * 9.2 - 10, 72, PRICE, GREEN, size=34, weight="bold", anchor="end")
             + text(W - 22, 98, PRICE_NOTE, MUTED, size=11, anchor="end"))
     rows.append([("quote.svg", W, svg(W, h, body, f"{NAME} — {ROLE}"), "#profile", NAME)])
 
