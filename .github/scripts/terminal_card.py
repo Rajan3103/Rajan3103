@@ -42,7 +42,7 @@ query($login: String!) {
           edges { size node { name } }
         }
         defaultBranchRef { target { ... on Commit {
-          history(first: 1) { nodes { messageHeadline committedDate } }
+          history(first: 10) { nodes { messageHeadline committedDate } }
         } } }
       }
     }
@@ -78,11 +78,13 @@ def summarise(user):
     langs = sorted(sizes.items(), key=lambda kv: -kv[1])[:5]
     langs = [(name, size * 100 / total) for name, size in langs]
 
-    # Recent activity: latest commit of the 3 most recently pushed repos.
+    # Recent activity: latest non-merge commit of the 3 most recently pushed repos.
     activity = []
     for r in repos:
         target = (r.get("defaultBranchRef") or {}).get("target") or {}
         nodes = (target.get("history") or {}).get("nodes") or []
+        # Skip "Merge pull request ..." commits and show the real change instead.
+        nodes = [n for n in nodes if not n["messageHeadline"].startswith("Merge ")]
         if nodes:
             when = dt.datetime.fromisoformat(nodes[0]["committedDate"].replace("Z", "+00:00"))
             activity.append((when, r["nameWithOwner"], nodes[0]["messageHeadline"]))
