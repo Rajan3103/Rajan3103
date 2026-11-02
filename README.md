@@ -362,7 +362,7 @@ $ mvn clean compile test --batch-mode
   <tr>
     <td align="center" bgcolor="#000000">
       <code><b>git status:</b> On branch main · Nothing to commit, working tree clean</code><br/>
-      <sub>📍 India &nbsp;•&nbsp; 📧 <a href="mailto:rajankarthig@gmail.com">rajankarthig@gmail.com</a> &nbsp;•&nbsp; 📱 +91 82485 81022 &nbsp;•&nbsp; 💼 <a href="https://www.linkedin.com/in/karthig-rajan-s-417ab0297/">LinkedIn</a></sub>
+      <sub>📍 India &nbsp;•&nbsp; 📧 <a href="mailto:rajankarthig@gmail.com">rajankarthig@gmail.com</a> &nbsp;•&nbsp; 💼 <a href="https://www.linkedin.com/in/karthig-rajan-s-417ab0297/">LinkedIn</a></sub>
     </td>
   </tr>
 </table>
