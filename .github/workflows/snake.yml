@@ -25,7 +25,7 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#ffb000&color_dots=#1a1400,#3a2c00,#7a5a00,#c08400,#ffb000
             
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0

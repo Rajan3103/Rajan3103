@@ -9,9 +9,9 @@
   <code><b>karthig-workspace — IntelliJ IDEA 2026.2 (Ultimate Edition)</b></code>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=61AFEF&center=true&vCenter=true&multiline=true&width=720&height=95&lines=KARTHIG+RAJAN+S;Software+Developer+%7C+Data+Analytics" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=FFB000&center=true&vCenter=true&multiline=true&width=720&height=95&lines=KARTHIG+RAJAN+S;Software+Developer+%7C+Data+Analytics" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=500&color=98C379&center=true&vCenter=true&width=720&lines=Java+21+%C2%B7+Spring+Boot+3+%C2%B7+Spring+WebFlux+%C2%B7+PostgreSQL;Data+Analytics+%C2%B7+Prompt+Engineering;Snowflake+%C2%B7+Power+BI+%C2%B7+React+Dashboards" alt="Skills Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=500&color=00FF9C&center=true&vCenter=true&width=720&lines=Java+21+%C2%B7+Spring+Boot+3+%C2%B7+Spring+WebFlux+%C2%B7+PostgreSQL;Data+Analytics+%C2%B7+Prompt+Engineering;Snowflake+%C2%B7+Power+BI+%C2%B7+React+Dashboards" alt="Skills Typing" />
 
 <br/>
 
@@ -26,7 +26,7 @@
   <a href="https://github.com/Rajan3103">
     <img src="https://img.shields.io/badge/GitHub-Rajan3103-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Rajan3103.Rajan3103&left_text=Profile+Views&left_color=%23555555&right_color=%2361afef&radius=0" alt="Profile Views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Rajan3103.Rajan3103&left_text=Profile+Views&left_color=%231a1400&right_color=%23ffb000&radius=0" alt="Profile Views" />
 </p>
 
 <p align="center">
@@ -143,7 +143,7 @@ public class DocDriftService {
 
 <p align="center">
   <a href="https://github.com/Rajan3103/Doc_Drift">
-    <img src="https://img.shields.io/badge/GitHub-DocDrift_Repository-61AFEF?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-DocDrift_Repository-FFB000?style=for-the-badge&logo=github&logoColor=black" />
   </a>
 </p>
 
@@ -184,7 +184,7 @@ class BugTriageEngine:
 
 <p align="center">
   <a href="https://github.com/Rajan3103/nlp-log-processor-and-bug-reporter">
-    <img src="https://img.shields.io/badge/GitHub-NLP_Log_Processor-98C379?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-NLP_Log_Processor-00FF9C?style=for-the-badge&logo=github&logoColor=black" />
   </a>
 </p>
 
@@ -337,12 +337,12 @@ $ mvn clean compile test --batch-mode
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=Rajan3103&show_icons=true&theme=onedark&hide_border=true&bg_color=1e2227&title_color=61afef&icon_color=98c379&text_color=abb2bf&count_private=true" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajan3103&layout=compact&theme=onedark&hide_border=true&bg_color=1e2227&title_color=61afef&text_color=abb2bf" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=Rajan3103&show_icons=true&hide_border=true&bg_color=000000&title_color=ffb000&icon_color=00ff9c&text_color=ffcc66&ring_color=ffb000&count_private=true" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajan3103&layout=compact&hide_border=true&bg_color=000000&title_color=ffb000&text_color=ffcc66" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Rajan3103&theme=onedark&hide_border=true&background=1e2227&ring=61afef&fire=e06c75&currStreakLabel=98c379&border_radius=8" />
+<img src="https://streak-stats.demolab.com?user=Rajan3103&hide_border=true&background=000000&stroke=3a2c00&ring=ffb000&fire=ff4d4d&currStreakNum=ffcc66&sideNums=ffcc66&currStreakLabel=00ff9c&sideLabels=ffb000&dates=7a6a3a&border_radius=8" />
 
 </div>
 
@@ -364,7 +364,7 @@ $ mvn clean compile test --batch-mode
 
 <table width="100%">
   <tr>
-    <td align="center" bgcolor="#1E2227">
+    <td align="center" bgcolor="#000000">
       <code><b>git status:</b> On branch main · Nothing to commit, working tree clean</code><br/>
       <sub>📍 India &nbsp;•&nbsp; 📧 <a href="mailto:rajankarthig@gmail.com">rajankarthig@gmail.com</a> &nbsp;•&nbsp; 📱 +91 82485 81022 &nbsp;•&nbsp; 💼 <a href="https://linkedin.com/in/karthig-rajan-s">LinkedIn</a></sub>
     </td>
@@ -373,6 +373,6 @@ $ mvn clean compile test --batch-mode
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=61afef&height=70&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb000,100:ff8c00&height=70&section=footer" width="100%" />
 
 </div>
